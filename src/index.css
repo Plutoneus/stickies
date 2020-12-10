@@ -1,0 +1,22 @@
+body {
+    background: #5E6472;
+    color: #FAF3DD;
+    margin: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+code {
+    font-family: 'Courier New',
+    monospace;
+}
+
+
+.App {
+    justify-content: center;
+}
+
+.Main-container {
+    background: #FFA69E;
+}
