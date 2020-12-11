@@ -12,7 +12,7 @@ const Todo = ({ text, note, notes, setNotes }) => {
             if(item.id === note.id) {
                 return {
                     ...item,
-                    completed: !item.completed
+                    completed: !item.completed,
                 }
             }
             return item;

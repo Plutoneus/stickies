@@ -14,7 +14,7 @@ const Form = ({ inputText, setInputText, notes, setNotes }) => {
                 text: inputText,
                 // subject: inputText,
                 // body: false,
-                // id: Math.random() * 1000 // lol
+                id: Math.random() * 1000 // lol
             }
         ]);
         setInputText("");

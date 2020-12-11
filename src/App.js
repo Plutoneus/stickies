@@ -36,7 +36,7 @@ function App() {
     };
 
     // Can only pass props and states downwards
-    // i.e. app -> TodoList -> note with setNotes and notes
+    // i.e. App -> NoteList -> note with setNotes and notes
     return (
         <div className="App">
             <header>
